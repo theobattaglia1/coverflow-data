@@ -13,16 +13,14 @@
     }
   },
   {
-    "id": "1743755620790",
-    "category": "artist, songwriter",
-    "frontImage": "/uploads/b7d5aec19b44b906b6e79ede9b380850",
-    "albumTitle": "Ruby Plume",
-    "coverLabel": "Mututal Friends / AWAL",
-    "fontFamily": "",
-    "fontSize": "",
+    "id": "1743755607527",
+    "category": "producer, songwriter",
+    "frontImage": "/uploads/26141c34120831f1c15f6b66fac2e9cc",
+    "albumTitle": "Jack Schrepferman",
+    "coverLabel": "100 Publishing / Kobalt",
     "music": {
       "type": "embed",
-      "embedHtml": ""
+      "embedHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/playlist/0Yli4gIVDEyxG5XQAKkgkV?utm_source=generator&theme=0\" width=\"50%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
     }
   },
   {
@@ -52,14 +50,16 @@
     }
   },
   {
-    "id": "1743755607527",
-    "category": "producer, songwriter",
-    "frontImage": "/uploads/26141c34120831f1c15f6b66fac2e9cc",
-    "albumTitle": "Jack Schrepferman",
-    "coverLabel": "100 Publishing / Kobalt",
+    "id": "1743755620790",
+    "category": "artist, songwriter",
+    "frontImage": "/uploads/b7d5aec19b44b906b6e79ede9b380850",
+    "albumTitle": "Ruby Plume",
+    "coverLabel": "Mututal Friends / AWAL",
+    "fontFamily": "",
+    "fontSize": "",
     "music": {
       "type": "embed",
-      "embedHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/playlist/0Yli4gIVDEyxG5XQAKkgkV?utm_source=generator&theme=0\" width=\"50%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      "embedHtml": ""
     }
   },
   {
