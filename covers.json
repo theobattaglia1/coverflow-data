@@ -22,7 +22,7 @@
     "fontSize": "",
     "music": {
       "type": "embed",
-      "embedHtml": ""
+      "embedHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/album/0PD1JJxb927HgRQieov8Uq?utm_source=generator\" width=\"50%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
     }
   },
   {
